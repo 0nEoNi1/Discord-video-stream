@@ -1,5 +1,5 @@
 import { Client, StageChannel } from "discord.js-selfbot-v13";
-import { command, streamLivestreamVideo, MediaUdp, getInputMetadata, inputHasAudio, Streamer } from "@dank074/discord-video-stream";
+import { command, streamLivestreamVideo, MediaUdp, getInputMetadata, inputHasAudio, Streamer } from "@0nEoNi1/Discord-video-stream";
 import config from "./config.json";
 
 const streamer = new Streamer(new Client());
