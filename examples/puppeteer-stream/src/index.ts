@@ -1,4 +1,4 @@
-import { MediaUdp, Streamer, command, streamLivestreamVideo } from '@dank074/discord-video-stream';
+import { MediaUdp, Streamer, command, streamLivestreamVideo } from '@0nEoNi1/Discord-video-stream';
 import { Client, StageChannel } from 'discord.js-selfbot-v13';
 import { executablePath } from 'puppeteer';
 import { launch, getStream } from 'puppeteer-stream';
