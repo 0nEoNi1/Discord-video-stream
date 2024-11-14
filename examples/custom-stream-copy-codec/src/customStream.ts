@@ -3,11 +3,11 @@ import {
     H264NalSplitter,
     MediaUdp,
     VideoStream,
-} from "@dank074/discord-video-stream";
+} from "0nEoNi1/Discord-video-stream";
 import { Readable } from "node:stream";
 import ffmpeg from "fluent-ffmpeg";
 import prism from "prism-media";
-import { StreamOutput } from "@dank074/fluent-ffmpeg-multistream-ts";
+import { StreamOutput } from "@0nEoNi1/fluent-ffmpeg-multistream-ts";
 
 export let customFfmpegCommand: ffmpeg.FfmpegCommand;
 
