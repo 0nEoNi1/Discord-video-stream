@@ -1,4 +1,4 @@
-import { MediaUdp, Streamer, getInputMetadata, inputHasAudio } from "@dank074/discord-video-stream";
+import { MediaUdp, Streamer, getInputMetadata, inputHasAudio } from "@0nEoNi1/Discord-video-stream";
 import config from "./config.json";
 import { Client, StageChannel } from "discord.js-selfbot-v13";
 import { customFfmpegCommand, customStreamVideo } from "./customStream";
